@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML**
 
-- 👨‍💻 All of my projects are available at [github.com/sunny81201/](github.com/sunny81201/)
+- 👨‍💻 All of my projects are available at [github.com/sunny81201/](github.com/sunny81201)
 
 - 📫 How to reach me **sengersunny448@gmail.com**
 <hr>
