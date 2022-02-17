@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny81201" alt="Sushil Pandey" /></a> </p>
 
-- 🔭 I’m currently working on Study Platform Project **LetsDoSomething**
+- 🔭 I’m currently working on Study Platform Project **Library Management System**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **HTML**
 
-- 👨‍💻 All of my projects are available at [github.com/CodeERAayush/](github.com/CodeERAayush/)
+- 👨‍💻 All of my projects are available at [github.com/sunny81201/](github.com/sunny81201/)
 
-- 📫 How to reach me **gameraayushpandey1100@gmail.com**
+- 📫 How to reach me **sengersunny448@gmail.com**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
