@@ -16,10 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/codeeraayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codeeraayush" height="30" width="40" /></a>
-<a href="https://twitter.com/_ayushpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ayushpandey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayush-pandey-a8b65b203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-pandey-a8b65b203/" height="30" width="40" /></a>
-<a href="https://instagram.com/-ayushpandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="-ayushpandey_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technical academy plus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical academy plus" height="30" width="40" /></a>
+<a href="https://twitter.com/sunnyjr_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunny_jr11" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sushil-pandey-8ab638209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushil-pandey-8ab638209" height="30" width="40" /></a>
+<a href="https://www.instagram.com/theamiable_sunny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@theamiable_sunny" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCCNIqsl_s-yjZJYECon4uWA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sunny vlogs" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/codevision" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codevision" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@aayushpandey1100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aayushpandey1100" height="30" width="40" /></a>
 </p>
