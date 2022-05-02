@@ -26,7 +26,7 @@
 <hr>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/codeERAayush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codeERAayush" /></a><a href="https://ko-fi.com/codeeraayush"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codeeraayush" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/codERSunny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codERSunny" /></a><a href="https://ko-fi.com/codersunny"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codersunny" /></a></p><br><br>
 
 <hr>
 
