@@ -1,10 +1,15 @@
 <h1 align="center">Hi ,I'm Sushil Pandey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="left">A passionate  web developer from India. Learning new technologies and interested in contributions that make my knowledge useful for others.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sunny81201&label=Profile%20views&color=0e75b6&style=flat" alt="Sushil Pandey" /> </p>
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=sunny81201&label=Profile%20views&color=0e75b6&style=flat" alt="Sushil Pandey" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny81201" alt="Sushil Pandey" /></a> </p>
+ -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush362&label=Profile%20views&color=0e75b6&style=flat" alt="piyush362" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush362" alt="piyush362" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I’m currently working on a Platform Project *TRAVEL WEBSITE *
 
 - 🌱 I’m currently learning *HTML* and *CSS*
