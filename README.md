@@ -39,12 +39,9 @@
 <hr>
 
 Some of my stats 📊
- <p>
-<img scr="
- https://github-readme-stats.vercel.app/api/top-langs/?username=81201&layout=compact)](https://github.com/sunny81201/github-readme-stats" alt ="sunny81201">
- </p>
 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" alt="sunny81201" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny81201&show_icons=true&locale=en" alt="sunny81201" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny81201&show_icons=true&locale=en&layout=compact" alt="sunny81201" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunny81201&" alt="sunny81201" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny81201&show_icons=true&theme=midnight-purple" alt="sunny81201" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush362&" alt="piyush362" /></p>
