@@ -42,12 +42,7 @@ Some of my stats 📊
  <p>
 <img scr="
  https://github-readme-stats.vercel.app/api/top-langs/?username=81201&layout=compact)](https://github.com/sunny81201/github-readme-stats" alt ="sunny81201">
-</p>
-<p>
-<img scr="https://github-readme-streak-stats.herokuapp.com/?user=sunny81201&">
-</p>
-
-<br>
+ </p>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny81201&show_icons=true&locale=en" alt="sunny81201" /></p>
