@@ -40,7 +40,7 @@
 
 Some of my stats 📊
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" alt="sunny81201" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8$theme=midnight-purple" alt="sunny81201" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny81201&show_icons=true&theme=midnight-purple" alt="sunny81201" /></p>
 
