@@ -39,9 +39,13 @@
 <hr>
 
 Some of my stats 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=sunny81201&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"></a>
-
+ <p>
+<img scr="
+ https://github-readme-stats.vercel.app/api/top-langs/?username=81201&layout=compact)](https://github.com/sunny81201/github-readme-stats" alt ="sunny81201">
+</p>
+<p>
+<img scr="https://github-readme-streak-stats.herokuapp.com/?user=sunny81201&">
+</p>
 
 <br>
 
