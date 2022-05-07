@@ -45,3 +45,6 @@ Some of my stats 📊
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny81201&show_icons=true&theme=midnight-purple" alt="sunny81201" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush362&" alt="piyush362" /></p>
+
+
+<p> <img scr="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=https://github.com/sunny81201/myportfolio"> <?p>
