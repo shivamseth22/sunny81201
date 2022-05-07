@@ -29,13 +29,22 @@
 </p>
 
 <hr>
+<!-- support section start from here  -->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/codERSunny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codERSunny" /></a><a href="https://ko-fi.com/codersunny"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codersunny" /></a></p><br><br>
 
+<!-- support section end here  -->
+
 <hr>
+## Some of my stats :bar_chart:
+
+<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+|--|--|
+
+<br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny81201&show_icons=true&locale=en" alt="sunny81201" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny81201&show_icons=true&locale=en&layout=compact" alt="sunny81201" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny81201&show_icons=true&locale=en" alt="sunny81201" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny81201&show_icons=true&locale=en&layout=compact" alt="sunny81201" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunny81201&" alt="sunny81201" /></p>
