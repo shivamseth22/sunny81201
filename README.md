@@ -9,14 +9,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush362" alt="sunny81201"</a> </p>
 
-
-- 🔭 I’m currently working on a Platform Project *TRAVEL WEBSITE *
+ - 🔭 I’m currently working on a Platform Project *TRAVEL WEBSITE*
 
 - 🌱 I’m currently learning *HTML* and *CSS*
 
 - 👨‍💻 All of my projects are available at [github.com/sunny81201/](github.com/sunny81201)
 
 - 📫 How to reach me *sengersunny448@gmail.com*
+ 
 <hr>
 
 <h3 align="left"> Connect with me:</h3>
