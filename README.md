@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny81201" alt="Sushil Pandey" /></a> </p>
  -->
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush362&label=Profile%20views&color=0e75b6&style=flat" alt="piyush362" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny81201&label=Profile%20views&color=0e75b6&style=flat" alt="sunny81201" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush362" alt="piyush362" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush362" alt="sunny81201"</a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="sunny81201" /></a> </p>
 - 🔭 I’m currently working on a Platform Project *TRAVEL WEBSITE *
 
 - 🌱 I’m currently learning *HTML* and *CSS*
@@ -37,8 +37,8 @@
 <!-- support section end here  -->
 
 <hr>
+<h3 align="left"> Some of my stats 📊:</h3>
 
-Some of my stats 📊
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8$theme=midnight-purple" alt="sunny81201" /></p>
 
