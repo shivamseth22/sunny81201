@@ -1,12 +1,11 @@
 <h1 align="center">Hi ,I'm Sushil Pandey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
 <h3 align="left">A passionate  web developer from India. Learning new technologies and interested in contributions that make my knowledge useful for others.</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny81201" alt="Sushil Pandey" /></a> </p>
- -->
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny81201&label=Profile%20views&color=0e75b6&style=flat" alt="sunny81201" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush362" alt="sunny81201"</a> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny81201&label=Profile%20views&color=0e75b6&style=flat" alt="sunny81201" /> </p>
 
  - 🔭 I’m currently working on a Platform Project *TRAVEL WEBSITE*
 
